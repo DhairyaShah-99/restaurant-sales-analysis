@@ -74,14 +74,10 @@ Business Data Analysis
 
 The dataset contains restaurant sales information including:
 
-- Restaurant names
-- City locations
-- Order quantities
-- Revenue
-- Customer IDs
-- Delivery times
-- Ratings
-- Discounts
+- City Details
+- Restaurant ID Mappings
+- City ID Mappings
+- Customer Details
 
 This dataset enables analysis of **restaurant performance, customer engagement, and operational efficiency**.
 
